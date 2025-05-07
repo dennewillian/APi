@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/dennewillian/APi/issues"
   },
-  "homepage": "https://github.com/dennewillian/APi#readme"
+  "homepage": "https://github.com/dennewillian/APi#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
